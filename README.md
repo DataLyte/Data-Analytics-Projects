@@ -1,7 +1,7 @@
 ### Data-Analytics-Projects
 Projects designed to showcase my ability clean large datasets to deliver insights about the data
 
-(1) US Debt Tracker Project
+# (1) US Debt Tracker Project
 
 There is a scenario where the US Government has requested an analysis of their public and governmental debt to answer the following questions.
 

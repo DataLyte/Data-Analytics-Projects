@@ -1,5 +1,5 @@
 # Data-Analytics-Projects
-Projects designed to showcase my ability clean large datasets to deliver insights about the data
+Capability which showcases ability to clean large datasets in order to deliver insights about reams of data based on various scenario quests.
 
 ## (1) US Debt Tracker Project
 
@@ -8,3 +8,7 @@ There is a scenario where the US Government has requested an analysis of their p
 What was the Yearly Debt Percentage Increase for each year compared to the previous year?
 
 Which month historically has seen the highest/lowest increases in Total debt?
+
+# Challenges
+7500 rows of data to clean and analyse
+Data cleaned, used Excel techniques and Graphs producing depicting the following ...
